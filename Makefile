@@ -1,2 +1,2 @@
 build:
-	g++ -o ./linux/htmlentities.out main.cpp
+	g++ -o ./linux/htmlentities.out -c main.cpp
