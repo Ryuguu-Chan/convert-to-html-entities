@@ -2,10 +2,6 @@
 #include <string>
 #include <fstream>
 
-//////////////////////////////////////////
-// MADE BY OGAN OEZKUL (AKA RYUGUU CHAN) //
-//////////////////////////////////////////
-
 const std::string helpMessageStr	= "you should specify a filename like so\n\nhtmlentities yourfilename.txt";
 const std::string fileOpeningError	= "something went wrong while opening the file.\nEither the file doesn't exists or corrupted.";
 const std::string fileCreationError = "something went wrong while creating the result.html file!";
